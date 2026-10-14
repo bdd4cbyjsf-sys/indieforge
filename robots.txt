@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /post
+
+Sitemap: https://bdd4cbyjsf-sys.github.io/indieforge/sitemap.xml
